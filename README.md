@@ -1,7 +1,10 @@
 # Hi I'm Kasidecha, Welcome to my Github profile 👋
 
-- 🔭 I have web profile<br>
-- [RESUME](https://kerickth.github.io/kasidechaProfile.github.io/)
+- 🔭 I have web profile & resume<br>
+- [Profile & Resume](https://kerickth.github.io/kasidechaProfile.github.io/)
+
+🔭 Project LiDAR website<br>
+- [Bachelor's project](https://kerickth.github.io/kasidechaProfile.github.io/)
 
 <!--
 **kerickth/kerickth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
