@@ -4,7 +4,7 @@
 - [Profile & Resume](https://kerickth.github.io/kasidechaProfile.github.io/)
 
 🔭 Project LiDAR website<br>
-- [Bachelor's project](https://kerickth.github.io/kasidechaProfile.github.io/)
+- [Bachelor's project]([https://kerickth.github.io/kasidechaProfile.github.io/](https://kerickth.github.io/mesuringProject.github.io/))
 
 <!--
 **kerickth/kerickth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
