@@ -1,6 +1,6 @@
 # Hi I'm Kasidecha, Welcome to my Github profile 👋
 
-- 🔭 I have web profile & resume<br>
+💬 Web profile & resume<br>
 - [Profile & Resume](https://kerickth.github.io/kasidechaProfile.github.io/)
 
 🔭 Project LiDAR website<br>
